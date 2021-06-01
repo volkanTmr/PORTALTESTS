@@ -21,9 +21,9 @@ public class ManagePortal {
 
     @Test
     public void setUp() throws InterruptedException {
-        // TODO username ve şifre ile sayfaya gir  
-        // akıllı binalar personel portalı sayfasında çalışanlar butonu var buna bas
-        // hamza uyanık adlı işçinin üzerine gel tıkla mazeret izin bilgilerini gör
+        // TODO 1- username ve şifre ile sayfaya gir
+        // 2- akıllı binalar personel portalı sayfasında çalışanlar butonu var buna bas
+        // 3- hamza uyanık adlı işçinin üzerine gel tıkla mazeret izin bilgilerini gör
 
 
 

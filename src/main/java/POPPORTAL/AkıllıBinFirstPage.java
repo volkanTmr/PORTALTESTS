@@ -17,9 +17,7 @@ public class AkıllıBinFirstPage {
 
     public WebElement ButtonOfWorkers() { return driver.findElement(workers);}
 
-
-
-        }
+}
 
 
 

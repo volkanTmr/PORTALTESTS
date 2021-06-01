@@ -166,7 +166,5 @@ public class PORTALLOGINTESTS {
         driver.quit();
     }
 
-
-
 }
 

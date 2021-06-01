@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPortal {
 
+
     WebDriver driver;
 
     public LoginPortal(WebDriver driver)
